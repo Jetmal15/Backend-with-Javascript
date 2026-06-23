@@ -1,0 +1,16 @@
+{
+  "name": "backend-with-javascript",
+  "version": "1.0.0",
+  "description": "A backend learning",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "jeetu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
