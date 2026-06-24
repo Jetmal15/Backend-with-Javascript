@@ -1,2 +1,1 @@
-# Chai or backend series 
-# This is learning backend with javascript
+# This is backend learning with chai or code

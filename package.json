@@ -1,25 +1,24 @@
 {
   "name": "backend-with-javascript",
   "version": "1.0.0",
-  "description": "A backend learning",
+  "description": "a backend at chai or code ",
   "keywords": [
     "javascript",
-    "backend"
+    "node"
   ],
+  "homepage": "https://github.com/Jetmal15/Backend-with-Javascript#readme",
+  "bugs": {
+    "url": "https://github.com/Jetmal15/Backend-with-Javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jetmal15/Backend-with-Javascript.git"
+  },
   "license": "ISC",
   "author": "jeetu",
-  "type": "module",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.14",
-    "prettier": "^3.8.4"
-  },
-  "dependencies": {
-    "dotenv": "^17.4.2",
-    "express": "^5.2.1",
-    "mongoose": "^9.7.2"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
